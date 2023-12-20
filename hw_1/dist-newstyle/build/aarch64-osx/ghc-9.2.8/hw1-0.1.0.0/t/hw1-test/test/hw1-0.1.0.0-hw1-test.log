@@ -1,0 +1,13 @@
+Test suite hw1-test: RUNNING...
+All Tests
+  Unit Tests
+    abcd < ab:                OK
+    zipLong empty first list: OK
+     'abc' equals 'abc' :     OK
+    ab < abcd:                OK
+  zipLong property:           OK
+      ✓ <interactive> passed 100 tests.
+
+All 5 tests passed (0.01s)
+Test suite hw1-test: PASS
+Test suite logged to: /Users/amvalisheva/Desktop/fp_haskell/hw_1/dist-newstyle/build/aarch64-osx/ghc-9.2.8/hw1-0.1.0.0/t/hw1-test/test/hw1-0.1.0.0-hw1-test.log
